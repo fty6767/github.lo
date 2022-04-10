@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(242, 242, 145);
+}
+.header {
+    color : blue;
+    font-size : 500%;
+    font-family: 'Jua', sans-serif;
+    text-align: center;
+}
+.kind {
+    background-color: red;
+    font-size: 70px;
+    height: 80px;
+    width: 1000px;
+    margin: auto;
+    display: block;
+    border-radius: 12px;
+    border: 0;
+    outline: 0;
+    font-family: 'Jua', sans-serif;
+    text-align: center;
+}
